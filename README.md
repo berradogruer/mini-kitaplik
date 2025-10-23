@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+## 🔗 Canlı Demo
+Uygulamayı canlı olarak buradan görüntüleyebilirsiniz 👇  
+👉 [Mini Kitaplık - Vercel Deploy](https://mini-kitaplik-sigma.vercel.app)
+
+# Getting Started with Create React Ap
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -69,7 +73,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-## 🔗 Canlı Demo
-Uygulamayı canlı olarak buradan görüntüleyebilirsiniz 👇  
-👉 [Mini Kitaplık - Vercel Deploy](https://mini-kitaplik-sigma.vercel.app)
+
 
