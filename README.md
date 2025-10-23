@@ -68,3 +68,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## 🔗 Canlı Demo
+Uygulamayı canlı olarak buradan görüntüleyebilirsiniz 👇  
+👉 [Mini Kitaplık - Vercel Deploy](https://mini-kitaplik-sigma.vercel.app)
+
